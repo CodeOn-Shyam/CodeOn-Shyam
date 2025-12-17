@@ -106,8 +106,8 @@ Daily practice of **DSA problems in Java**, focusing on optimization and edge ca
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CodeOn-Shyam)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeOn-Shyam\&layout=compact\&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeOn-Shyam&layout=compact&theme=dark)
 ---
 
 ## 📫 Connect With Me
